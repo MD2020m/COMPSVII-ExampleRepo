@@ -1,5 +1,4 @@
 My Grocery List
-- Eggs
 - Red Onion
 - Green Onion
 - Tomato
