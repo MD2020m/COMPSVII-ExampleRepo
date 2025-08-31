@@ -1,8 +1,8 @@
 My Grocery List
-- Apples
-- Bananas
-- Potato Chips
 - Eggs
-- Butter
-- Sugar
-- Lemons
+- Red Onion
+- Green Onion
+- Tomato
+- Oranges
+- Burger Meat
+- Chicken Thighs
